@@ -233,10 +233,28 @@ body {
         text-align: center;
         margin-left: 0;
     }
-    /* .contact-div {
+    .container-fluid-work {
+        padding: 0;
+    }
+    .about-p{
+        text-align: center;
+        padding: 2rem 4rem 4rem;
+    }
+    .education-h2{
         text-align: center;
         margin-left: 0;
-    } */
+    }
+    .education-p{
+        text-align: center;
+        padding: 2rem 4rem 4rem;
+    }
+    .skills-h2{
+        text-align: center;
+        margin-left: 0;
+    }
+    .about-container {
+        text-align: center;
+    }
 }
 
 /* Contact */
@@ -244,15 +262,8 @@ body {
     margin-bottom: 5rem;
 }
 
-.contact-div {
-    text-align: left;
-    margin-left: 8rem;
-}
-
 .h5-contact {
     color: rgb(122, 122, 122);
-    padding-left: 3rem;
-    display: inline;
 }
 
 .fa-2x {
